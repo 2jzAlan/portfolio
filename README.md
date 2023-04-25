@@ -1,1 +1,1 @@
-# portfolio
+this app is designed to record your daily tasks and keep a personal account of them while also monitoring the events you record with a reminder whenever the day approaches it.  the app is split into 5 pages.  A login, registration, task, alarm, and calender.
